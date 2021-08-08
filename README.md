@@ -1,11 +1,12 @@
-Oi Sou Levy,
+<div>
+<h1>Oi Sou Levy!</h1>
 
 
-🔭 Formado em Análise e Desenvolvimento de Sistemas
-🌱 Estou aprimorando minhas habilidades em desenvolvimento
-💬 Pergunte-me sobre Banco de Dados =)
-⚡ Diversão Coding...
- 
+<p>🔭 Formado em Análise e Desenvolvimento de Sistemas</p>
+<p>🌱 Estou aprimorando minhas habilidades em desenvolvimento</p>
+<p>💬 Pergunte-me sobre Banco de Dados =)</p>
+<p>⚡ Diversão Coding...</p>
+</div> 
  
  <div>
   <a href="https://github.com/levysampaio">
@@ -18,7 +19,7 @@ Oi Sou Levy,
   <img align="center" alt="Levy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Levy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Levy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Levy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/java-original.svg">
+  <img align="center" alt="Levy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
