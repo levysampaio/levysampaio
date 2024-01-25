@@ -3,6 +3,7 @@
 
 
 <p>🔭 Formado em Análise e Desenvolvimento de Sistemas</p>
+<p>🔭 Cursando pós-gradução em Arquitetura de Software</p>
 <p>🌱 Estou aprimorando minhas habilidades em desenvolvimento</p>
 <p>💬 Pergunte-me sobre Banco de Dados =)</p>
 <p>⚡ Diversão Coding...</p>
