@@ -1,12 +1,12 @@
 <div>
-<h1>Oi Sou Levy!</h1>
+<h1>Hi I'm Levy!</h1>
 
 
-<p>🔭 Formado em Análise e Desenvolvimento de Sistemas</p>
-<p>🔭 Cursando pós-gradução em Arquitetura de Software</p>
-<p>🌱 Estou aprimorando minhas habilidades em desenvolvimento</p>
-<p>💬 Pergunte-me sobre Banco de Dados =)</p>
-<p>⚡ Diversão Coding...</p>
+<p>🔭 Graduated in Systems Analysis and Development </p>
+<p>🔭 Post-graduate in Software Architecture </p>
+<p>🌱 Enhancing my software development skills </p>
+<p>💬 Ask me about Databases =) </p>
+<p>⚡ Coding for fun... </p>
 </div> 
  
  <div>
