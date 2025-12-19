@@ -1,5 +1,5 @@
 <div>
-<h1>Hi I'm Levy!</h1>
+<h1>Hi, I'm Levy!</h1>
 
 
 <p>🔭 Graduated in Systems Analysis and Development </p>
